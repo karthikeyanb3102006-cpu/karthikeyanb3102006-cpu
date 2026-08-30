@@ -7,7 +7,7 @@
 
 <br/>
 
-![Education](https://img.shields.io/badge/BSc%20IT-Sri%20Ramakrishna%20College-6D28D9?style=flat-square&labelColor=1a1a2e)
+![Education](https://img.shields.io/badge/BSc%20IT-Sri%20Ramakrishna%20College%20Of%20Arts%20And%20Science-6D28D9?style=flat-square&labelColor=1a1a2e)
 ![Location](https://img.shields.io/badge/Location-Coimbatore%2C%20India-6D28D9?style=flat-square&labelColor=1a1a2e)
 
 <br/>
